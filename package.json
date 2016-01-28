@@ -1,0 +1,16 @@
+{
+  "name": "mytraffic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mytraffic.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.1.0",
+    "moment": "^2.11.1",
+    "phantomjs": "^2.1.3"
+  }
+}
